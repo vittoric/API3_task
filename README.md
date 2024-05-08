@@ -16,7 +16,7 @@ Sowing price of USTD EHT an WBTC
 <img width="1113" alt="Pasted Graphic 21" src="https://github.com/vittoric/API3_task/assets/93945847/6594db0e-4a2e-41c0-b887-4c2465baaf79">
 
 
-HEre is the proxy API
+Here is the proxy API
 <img width="1337" alt="Pasted Graphic 22" src="https://github.com/vittoric/API3_task/assets/93945847/a3aeb2bc-6586-485b-ab04-87e2db4579a6">
 
 **Used Proxy**
